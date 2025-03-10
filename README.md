@@ -1,6 +1,6 @@
 # ninotnc-set-mode
 
-CLI tool to set the operating mode of a NinoTNC
+CLI tool to set the operating mode of a NinoTNC. Prebuilt binaries in Releases.
 
 Example:
 

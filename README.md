@@ -1,6 +1,6 @@
 # ninotnc-set-mode
 
-HTML version available at [a GitHub Pages](https://madpsy.github.io/ninotnc-set-mode)
+HTML version available at [GitHub Pages](https://madpsy.github.io/ninotnc-set-mode)
 
 CLI tool to set the operating mode of a NinoTNC either via serial or TCP. Prebuilt binaries in Releases.
 
